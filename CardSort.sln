@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardSort", "CardSort\CardSort.csproj", "{CD8B2674-E021-476B-AAD4-6700520C242D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardSort.Tests", "CardSort.Tests\CardSort.Tests.csproj", "{2A556DD9-EE9F-4500-A97E-FE5A6BF9E30B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{17B555E9-ADB7-4724-B45D-D3571900FA3B}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.txt = Readme.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD8B2674-E021-476B-AAD4-6700520C242D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8B2674-E021-476B-AAD4-6700520C242D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8B2674-E021-476B-AAD4-6700520C242D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8B2674-E021-476B-AAD4-6700520C242D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A556DD9-EE9F-4500-A97E-FE5A6BF9E30B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A556DD9-EE9F-4500-A97E-FE5A6BF9E30B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A556DD9-EE9F-4500-A97E-FE5A6BF9E30B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A556DD9-EE9F-4500-A97E-FE5A6BF9E30B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
